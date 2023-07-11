@@ -34,3 +34,4 @@ let array = [1, 'b', {a:1, b:'hello'}, true];
 console.log(array [0]);
 
 //null
+
