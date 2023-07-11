@@ -29,6 +29,8 @@ object.x = ['a', 'b', 'c']
 console.log(object);
 
 //массив
-let array = ['a', 'b', 'c'];
+let array = [1, 'b', {a:1, b:'hello'}, true];
 
-console.log(array);
+console.log(array [0]);
+
+//null
